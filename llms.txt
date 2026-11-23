@@ -1,0 +1,20 @@
+# Noillirk Answers
+
+> An independent English guide to PlayDaily's seven-round Noillirk Daily, with hints, scored answers and an archive organized by UTC puzzle date.
+
+Match the UTC date and prompt before citing an answer. Daily sheets label the evidence available for that board: verified results, partially verified results or a third-party report. When a daily board is pending, the homepage offers original practice rounds.
+
+## Daily sheets
+
+- [Today's sheet](https://noillirkanswers.app/): Open hints and reveal answers for the current UTC puzzle when available.
+- [Answer archive](https://noillirkanswers.app/archive/): Find past sheets by date or by words in a prompt.
+
+## Guides
+
+- [How to play](https://noillirkanswers.app/how-to-play/): Round timing, scoring tiers and the daily reset.
+- [Hint guide](https://noillirkanswers.app/hints/): Use clues and first-letter hints before revealing an answer.
+- [Krillion vs Noillirk](https://noillirkanswers.app/krillion-vs-noillirk/): Compare how the two games score popular and rare answers.
+
+## Official game
+
+- [PlayDaily Noillirk](https://playdaily.org/noillirk): Play the daily puzzle and consult the original rules.

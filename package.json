@@ -1,0 +1,11 @@
+{
+  "name": "noillirk-answers",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && node server.mjs",
+    "start": "node server.mjs",
+    "test": "npm run build && node scripts/check.mjs"
+  }
+}

@@ -1,0 +1,718 @@
+{
+  "date": "2026-11-13",
+  "source": "https://noillirkgames.com/answers/",
+  "checkedAt": "2026-11-23T08:21:40Z",
+  "status": "reported",
+  "rounds": [
+    {
+      "question": "Name something you wear that you should never spend more than $20 on",
+      "hint": "Think of something often sold in multipacks.",
+      "answers": [
+        {
+          "text": "Socks",
+          "points": 100
+        },
+        {
+          "text": "Undergarments",
+          "points": 64
+        },
+        {
+          "text": "T-shirt",
+          "points": 64
+        },
+        {
+          "text": "Hat",
+          "points": 64
+        },
+        {
+          "text": "Makeup",
+          "points": 32
+        },
+        {
+          "text": "Sunglasses",
+          "points": 32
+        },
+        {
+          "text": "Tie",
+          "points": 32
+        },
+        {
+          "text": "Flip-flops",
+          "points": 16
+        },
+        {
+          "text": "Scarf",
+          "points": 16
+        },
+        {
+          "text": "Gloves",
+          "points": 8
+        },
+        {
+          "text": "Belt",
+          "points": 4
+        },
+        {
+          "text": "Costume jewelry",
+          "points": 4
+        },
+        {
+          "text": "Hair accessories",
+          "points": 4
+        },
+        {
+          "text": "Pajamas",
+          "points": 4
+        },
+        {
+          "text": "Tank top",
+          "points": 4
+        },
+        {
+          "text": "Shorts",
+          "points": 4
+        },
+        {
+          "text": "Leggings",
+          "points": 4
+        },
+        {
+          "text": "Sandals",
+          "points": 4
+        },
+        {
+          "text": "Slippers",
+          "points": 4
+        },
+        {
+          "text": "Sneakers",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something a king would hate to be without",
+      "hint": "Think of the people at court, including the royal family.",
+      "answers": [
+        {
+          "text": "Queen",
+          "points": 100
+        },
+        {
+          "text": "Crown",
+          "points": 64
+        },
+        {
+          "text": "His kingdom",
+          "points": 64
+        },
+        {
+          "text": "Throne",
+          "points": 64
+        },
+        {
+          "text": "Servants",
+          "points": 32
+        },
+        {
+          "text": "Fool",
+          "points": 32
+        },
+        {
+          "text": "Subjects",
+          "points": 32
+        },
+        {
+          "text": "His castle",
+          "points": 16
+        },
+        {
+          "text": "His army",
+          "points": 8
+        },
+        {
+          "text": "His guards",
+          "points": 4
+        },
+        {
+          "text": "Money",
+          "points": 4
+        },
+        {
+          "text": "Food",
+          "points": 4
+        },
+        {
+          "text": "His scepter",
+          "points": 4
+        },
+        {
+          "text": "His royal robe",
+          "points": 4
+        },
+        {
+          "text": "His horse",
+          "points": 4
+        },
+        {
+          "text": "His sword",
+          "points": 4
+        },
+        {
+          "text": "His knights",
+          "points": 4
+        },
+        {
+          "text": "An heir",
+          "points": 4
+        },
+        {
+          "text": "His family",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name the biggest event in a teenager's life",
+      "hint": "What milestone lets a teenager get around independently?",
+      "answers": [
+        {
+          "text": "Driver's license",
+          "points": 100
+        },
+        {
+          "text": "Graduation",
+          "points": 64
+        },
+        {
+          "text": "16th birthday",
+          "points": 64
+        },
+        {
+          "text": "First kiss",
+          "points": 64
+        },
+        {
+          "text": "First car",
+          "points": 32
+        },
+        {
+          "text": "Prom",
+          "points": 32
+        },
+        {
+          "text": "First date",
+          "points": 8
+        },
+        {
+          "text": "First boyfriend or girlfriend",
+          "points": 8
+        },
+        {
+          "text": "First job",
+          "points": 8
+        },
+        {
+          "text": "Getting into college",
+          "points": 4
+        },
+        {
+          "text": "Leaving for college",
+          "points": 4
+        },
+        {
+          "text": "18th birthday",
+          "points": 4
+        },
+        {
+          "text": "First love",
+          "points": 4
+        },
+        {
+          "text": "First breakup",
+          "points": 4
+        },
+        {
+          "text": "Making the sports team",
+          "points": 4
+        },
+        {
+          "text": "Winning a championship",
+          "points": 4
+        },
+        {
+          "text": "First school dance",
+          "points": 4
+        },
+        {
+          "text": "Homecoming",
+          "points": 4
+        },
+        {
+          "text": "Being elected class president",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a food you'd eat straight out of the fridge",
+      "hint": "What might already be in a container from last night?",
+      "answers": [
+        {
+          "text": "Leftovers",
+          "points": 100
+        },
+        {
+          "text": "Cold pizza",
+          "points": 64
+        },
+        {
+          "text": "Yogurt",
+          "points": 64
+        },
+        {
+          "text": "Cheese",
+          "points": 64
+        },
+        {
+          "text": "Deli meat",
+          "points": 32
+        },
+        {
+          "text": "Grapes",
+          "points": 32
+        },
+        {
+          "text": "Pudding",
+          "points": 32
+        },
+        {
+          "text": "Jello",
+          "points": 32
+        },
+        {
+          "text": "Fruit",
+          "points": 32
+        },
+        {
+          "text": "Pickles",
+          "points": 16
+        },
+        {
+          "text": "Cold chicken",
+          "points": 16
+        },
+        {
+          "text": "String cheese",
+          "points": 16
+        },
+        {
+          "text": "Milk",
+          "points": 16
+        },
+        {
+          "text": "Hummus",
+          "points": 8
+        },
+        {
+          "text": "Cottage cheese",
+          "points": 8
+        },
+        {
+          "text": "Cold pasta",
+          "points": 8
+        },
+        {
+          "text": "Butter",
+          "points": 8
+        },
+        {
+          "text": "Sour cream",
+          "points": 8
+        },
+        {
+          "text": "Applesauce",
+          "points": 8
+        },
+        {
+          "text": "Hard boiled eggs",
+          "points": 8
+        },
+        {
+          "text": "Cold fried chicken",
+          "points": 8
+        },
+        {
+          "text": "Salad",
+          "points": 8
+        },
+        {
+          "text": "Olives",
+          "points": 8
+        },
+        {
+          "text": "Sauerkraut",
+          "points": 4
+        },
+        {
+          "text": "Kimchi",
+          "points": 4
+        },
+        {
+          "text": "Cold soup",
+          "points": 4
+        },
+        {
+          "text": "Gazpacho",
+          "points": 4
+        },
+        {
+          "text": "Cold noodles",
+          "points": 4
+        },
+        {
+          "text": "Cold rice",
+          "points": 4
+        },
+        {
+          "text": "Bologna",
+          "points": 4
+        },
+        {
+          "text": "Whipped cream",
+          "points": 4
+        },
+        {
+          "text": "Cream cheese",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a job where you need to wash your hands often",
+      "hint": "Think about workers who see several patients in a day.",
+      "answers": [
+        {
+          "text": "Nurse",
+          "points": 100
+        },
+        {
+          "text": "Cook",
+          "points": 64
+        },
+        {
+          "text": "Doctor",
+          "points": 16
+        },
+        {
+          "text": "Surgeon",
+          "points": 16
+        },
+        {
+          "text": "Dentist",
+          "points": 16
+        },
+        {
+          "text": "Dental hygienist",
+          "points": 16
+        },
+        {
+          "text": "Veterinarian",
+          "points": 16
+        },
+        {
+          "text": "Veterinary technician",
+          "points": 16
+        },
+        {
+          "text": "Daycare worker",
+          "points": 16
+        },
+        {
+          "text": "Preschool teacher",
+          "points": 8
+        },
+        {
+          "text": "Elementary school teacher",
+          "points": 8
+        },
+        {
+          "text": "Janitor",
+          "points": 8
+        },
+        {
+          "text": "Housekeeper",
+          "points": 8
+        },
+        {
+          "text": "Plumber",
+          "points": 8
+        },
+        {
+          "text": "Auto mechanic",
+          "points": 8
+        },
+        {
+          "text": "Hairdresser",
+          "points": 8
+        },
+        {
+          "text": "Barber",
+          "points": 4
+        },
+        {
+          "text": "Nail technician",
+          "points": 4
+        },
+        {
+          "text": "Massage therapist",
+          "points": 4
+        },
+        {
+          "text": "Tattoo artist",
+          "points": 4
+        },
+        {
+          "text": "Butcher",
+          "points": 4
+        },
+        {
+          "text": "Baker",
+          "points": 4
+        },
+        {
+          "text": "Bartender",
+          "points": 4
+        },
+        {
+          "text": "Restaurant server",
+          "points": 4
+        },
+        {
+          "text": "Dishwasher",
+          "points": 4
+        },
+        {
+          "text": "Grocery cashier",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something people buy after seeing a friend with one",
+      "hint": "Think about the things friends carry and compare every day.",
+      "answers": [
+        {
+          "text": "Phone",
+          "points": 100
+        },
+        {
+          "text": "Car",
+          "points": 64
+        },
+        {
+          "text": "Clothes",
+          "points": 64
+        },
+        {
+          "text": "Shoes",
+          "points": 64
+        },
+        {
+          "text": "Handbag",
+          "points": 32
+        },
+        {
+          "text": "Watch",
+          "points": 32
+        },
+        {
+          "text": "Television",
+          "points": 32
+        },
+        {
+          "text": "Laptop",
+          "points": 32
+        },
+        {
+          "text": "Game console",
+          "points": 32
+        },
+        {
+          "text": "Bicycle",
+          "points": 16
+        },
+        {
+          "text": "Coffee maker",
+          "points": 16
+        },
+        {
+          "text": "Pet",
+          "points": 16
+        },
+        {
+          "text": "Sunglasses",
+          "points": 8
+        },
+        {
+          "text": "Perfume",
+          "points": 8
+        },
+        {
+          "text": "Necklace",
+          "points": 8
+        },
+        {
+          "text": "Tablet",
+          "points": 8
+        },
+        {
+          "text": "Camera",
+          "points": 8
+        },
+        {
+          "text": "Sofa",
+          "points": 8
+        },
+        {
+          "text": "Barbecue grill",
+          "points": 8
+        },
+        {
+          "text": "Air fryer",
+          "points": 8
+        },
+        {
+          "text": "Book",
+          "points": 8
+        },
+        {
+          "text": "Vacuum cleaner",
+          "points": 8
+        },
+        {
+          "text": "Blender",
+          "points": 4
+        },
+        {
+          "text": "Speakers",
+          "points": 4
+        },
+        {
+          "text": "Lawn mower",
+          "points": 4
+        },
+        {
+          "text": "Tattoo",
+          "points": 4
+        },
+        {
+          "text": "Swimming pool",
+          "points": 4
+        },
+        {
+          "text": "Boat",
+          "points": 4
+        },
+        {
+          "text": "Motorcycle",
+          "points": 4
+        },
+        {
+          "text": "House",
+          "points": 4
+        },
+        {
+          "text": "Suitcase",
+          "points": 4
+        },
+        {
+          "text": "Water bottle",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a person you wouldn't want to get tipsy in front of",
+      "hint": "Think of someone you might have had a curfew with as a teenager.",
+      "answers": [
+        {
+          "text": "Parent",
+          "points": 100
+        },
+        {
+          "text": "Boss",
+          "points": 64
+        },
+        {
+          "text": "Pastor",
+          "points": 64
+        },
+        {
+          "text": "Police officer",
+          "points": 64
+        },
+        {
+          "text": "In-laws",
+          "points": 32
+        },
+        {
+          "text": "Child",
+          "points": 16
+        },
+        {
+          "text": "Grandparent",
+          "points": 16
+        },
+        {
+          "text": "Spouse",
+          "points": 8
+        },
+        {
+          "text": "Teacher",
+          "points": 8
+        },
+        {
+          "text": "Coworker",
+          "points": 4
+        },
+        {
+          "text": "Date",
+          "points": 4
+        },
+        {
+          "text": "Ex",
+          "points": 4
+        },
+        {
+          "text": "Crush",
+          "points": 4
+        },
+        {
+          "text": "Customer",
+          "points": 4
+        },
+        {
+          "text": "Doctor",
+          "points": 4
+        },
+        {
+          "text": "Judge",
+          "points": 4
+        },
+        {
+          "text": "Probation officer",
+          "points": 4
+        },
+        {
+          "text": "Driving instructor",
+          "points": 4
+        },
+        {
+          "text": "School principal",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}

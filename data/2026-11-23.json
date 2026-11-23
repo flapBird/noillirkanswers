@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-23",
+  "status": "partial",
+  "source": "https://playdaily.org/noillirk",
+  "checkedAt": "2026-11-23T08:47:07Z",
+  "rounds": [
+    {
+      "question": "Name someone in your life you hope never writes a tell-all book",
+      "hint": "Who has known you well enough to tell stories about you?",
+      "answers": [
+        {
+          "text": "Parent",
+          "points": 100
+        },
+        {
+          "text": "Ex",
+          "points": 64
+        },
+        {
+          "text": "Significant other",
+          "points": 64
+        }
+      ]
+    },
+    {
+      "question": "Name something a toddler leaves fingerprints all over",
+      "hint": "Picture a surface at a small child's eye level.",
+      "answers": [
+        {
+          "text": "Windows",
+          "points": 100
+        },
+        {
+          "text": "TV screen",
+          "points": 64
+        }
+      ]
+    },
+    {
+      "question": "Name something kids fight over at a birthday party",
+      "hint": "Think about what the guests have to share.",
+      "answers": [
+        {
+          "text": "Cake",
+          "points": 100
+        },
+        {
+          "text": "Toys",
+          "points": 32
+        }
+      ]
+    },
+    {
+      "question": "Name something specific that can smell like cinnamon",
+      "hint": "A spice can leave its scent on more than just food.",
+      "answers": [
+        {
+          "text": "Rolls",
+          "points": 100
+        },
+        {
+          "text": "Candles",
+          "points": 32
+        }
+      ]
+    },
+    {
+      "question": "Name something some kids need in order to sleep",
+      "hint": "Think back to the things that made bedtime easier.",
+      "answers": [
+        {
+          "text": "Night-light",
+          "points": 64
+        },
+        {
+          "text": "Favorite stuffed animal",
+          "points": 16
+        }
+      ]
+    },
+    {
+      "question": "Name something people do with snow",
+      "hint": "Picture the first afternoon after a big snowfall.",
+      "answers": [
+        {
+          "text": "Make a snowman",
+          "points": 64
+        },
+        {
+          "text": "Throw Snowballs",
+          "points": 32
+        }
+      ]
+    },
+    {
+      "question": "Name something people say to a dog",
+      "hint": "Think about greeting a pet or asking it to do something.",
+      "answers": [
+        {
+          "text": "Good boy",
+          "points": 100
+        },
+        {
+          "text": "Sit",
+          "points": 64
+        }
+      ]
+    }
+  ]
+}
