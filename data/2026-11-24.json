@@ -1,0 +1,806 @@
+{
+  "date": "2026-11-24",
+  "status": "verified",
+  "source": "https://playdaily.org/noillirk",
+  "checkedAt": "2026-11-24T08:58:51Z",
+  "rounds": [
+    {
+      "question": "Name something people argue about after watching a movie together",
+      "hint": "Think about which part of the story people are still discussing as the credits roll.",
+      "answers": [
+        {
+          "text": "The ending",
+          "points": 100
+        },
+        {
+          "text": "Whether it was good",
+          "points": 64
+        },
+        {
+          "text": "What it means",
+          "points": 64
+        },
+        {
+          "text": "Plot holes",
+          "points": 64
+        },
+        {
+          "text": "Which character was best",
+          "points": 32
+        },
+        {
+          "text": "Whether it made sense",
+          "points": 32
+        },
+        {
+          "text": "If there'll be a sequel",
+          "points": 32
+        },
+        {
+          "text": "The acting",
+          "points": 32
+        },
+        {
+          "text": "Who the villain really was",
+          "points": 32
+        },
+        {
+          "text": "If a character should have died",
+          "points": 16
+        },
+        {
+          "text": "The twist",
+          "points": 16
+        },
+        {
+          "text": "Whether to watch the sequel",
+          "points": 16
+        },
+        {
+          "text": "How it compares to the book",
+          "points": 16
+        },
+        {
+          "text": "Who fell asleep during it",
+          "points": 16
+        },
+        {
+          "text": "The soundtrack",
+          "points": 16
+        },
+        {
+          "text": "Whether it was too long",
+          "points": 8
+        },
+        {
+          "text": "What genre it was",
+          "points": 8
+        },
+        {
+          "text": "If it's better than the original",
+          "points": 8
+        },
+        {
+          "text": "Who talked too much during the movie",
+          "points": 8
+        },
+        {
+          "text": "The special effects",
+          "points": 8
+        },
+        {
+          "text": "Whether the casting was right",
+          "points": 8
+        },
+        {
+          "text": "Rating it out of 10",
+          "points": 8
+        },
+        {
+          "text": "Whether it deserved an award",
+          "points": 8
+        },
+        {
+          "text": "What to watch next",
+          "points": 8
+        },
+        {
+          "text": "The pacing",
+          "points": 4
+        },
+        {
+          "text": "A scientific inaccuracy",
+          "points": 4
+        },
+        {
+          "text": "The historical accuracy",
+          "points": 4
+        },
+        {
+          "text": "A continuity error",
+          "points": 4
+        },
+        {
+          "text": "Whose idea it was to watch it",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name an excuse people give for not going to the dentist",
+      "hint": "Think about what might give someone pause when they see a treatment estimate.",
+      "answers": [
+        {
+          "text": "Too expensive",
+          "points": 100
+        },
+        {
+          "text": "Scared",
+          "points": 64
+        },
+        {
+          "text": "It hurts",
+          "points": 64
+        },
+        {
+          "text": "Can't get off work",
+          "points": 64
+        },
+        {
+          "text": "Sick",
+          "points": 32
+        },
+        {
+          "text": "No time",
+          "points": 32
+        },
+        {
+          "text": "Teeth are fine",
+          "points": 32
+        },
+        {
+          "text": "Forgot the appointment",
+          "points": 16
+        },
+        {
+          "text": "Couldn't get an appointment",
+          "points": 16
+        },
+        {
+          "text": "No ride",
+          "points": 8
+        },
+        {
+          "text": "No babysitter",
+          "points": 4
+        },
+        {
+          "text": "Dentist is too far away",
+          "points": 4
+        },
+        {
+          "text": "Out of town",
+          "points": 4
+        },
+        {
+          "text": "Bad weather",
+          "points": 4
+        },
+        {
+          "text": "Stuck in traffic",
+          "points": 4
+        },
+        {
+          "text": "Car broke down",
+          "points": 4
+        },
+        {
+          "text": "Dentist's office is closed",
+          "points": 4
+        },
+        {
+          "text": "Dentist canceled",
+          "points": 4
+        },
+        {
+          "text": "Dentist retired",
+          "points": 4
+        },
+        {
+          "text": "Haven't found a dentist",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a food that grows in the ground",
+      "hint": "Picture a gardener loosening the soil and pulling up the edible part of a plant.",
+      "answers": [
+        {
+          "text": "Carrot",
+          "points": 100
+        },
+        {
+          "text": "Potato",
+          "points": 64
+        },
+        {
+          "text": "Turnip",
+          "points": 64
+        },
+        {
+          "text": "Rutabaga",
+          "points": 64
+        },
+        {
+          "text": "Onion",
+          "points": 32
+        },
+        {
+          "text": "Beet",
+          "points": 32
+        },
+        {
+          "text": "Radish",
+          "points": 32
+        },
+        {
+          "text": "Peanut",
+          "points": 32
+        },
+        {
+          "text": "Garlic",
+          "points": 32
+        },
+        {
+          "text": "Sweet potato",
+          "points": 16
+        },
+        {
+          "text": "Ginger",
+          "points": 16
+        },
+        {
+          "text": "Parsnip",
+          "points": 16
+        },
+        {
+          "text": "Cassava",
+          "points": 16
+        },
+        {
+          "text": "Taro",
+          "points": 16
+        },
+        {
+          "text": "Horseradish",
+          "points": 8
+        },
+        {
+          "text": "Turmeric",
+          "points": 8
+        },
+        {
+          "text": "Jicama",
+          "points": 8
+        },
+        {
+          "text": "Lotus root",
+          "points": 8
+        },
+        {
+          "text": "Water chestnut",
+          "points": 8
+        },
+        {
+          "text": "Salsify",
+          "points": 8
+        },
+        {
+          "text": "Celery root",
+          "points": 8
+        },
+        {
+          "text": "Kohlrabi",
+          "points": 8
+        },
+        {
+          "text": "Leek",
+          "points": 8
+        },
+        {
+          "text": "Scallion",
+          "points": 8
+        },
+        {
+          "text": "Eggplant",
+          "points": 4
+        },
+        {
+          "text": "Bell pepper",
+          "points": 4
+        },
+        {
+          "text": "Strawberry",
+          "points": 4
+        },
+        {
+          "text": "Rice",
+          "points": 4
+        },
+        {
+          "text": "Wheat",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name an annoying bug a person might find in their house",
+      "hint": "Picture switching on the kitchen light late at night and spotting movement.",
+      "answers": [
+        {
+          "text": "Cockroach",
+          "points": 100
+        },
+        {
+          "text": "Fly",
+          "points": 64
+        },
+        {
+          "text": "Spider",
+          "points": 64
+        },
+        {
+          "text": "Ant",
+          "points": 32
+        },
+        {
+          "text": "Mosquito",
+          "points": 32
+        },
+        {
+          "text": "Bedbug",
+          "points": 32
+        },
+        {
+          "text": "Flea",
+          "points": 32
+        },
+        {
+          "text": "Termite",
+          "points": 32
+        },
+        {
+          "text": "Moth",
+          "points": 16
+        },
+        {
+          "text": "Stink bug",
+          "points": 8
+        },
+        {
+          "text": "Gnat",
+          "points": 8
+        },
+        {
+          "text": "Silverfish",
+          "points": 8
+        },
+        {
+          "text": "Earwig",
+          "points": 8
+        },
+        {
+          "text": "Centipede",
+          "points": 8
+        },
+        {
+          "text": "Millipede",
+          "points": 8
+        },
+        {
+          "text": "Cricket",
+          "points": 8
+        },
+        {
+          "text": "Tick",
+          "points": 8
+        },
+        {
+          "text": "Wasp",
+          "points": 8
+        },
+        {
+          "text": "Bee",
+          "points": 8
+        },
+        {
+          "text": "Boxelder bug",
+          "points": 4
+        },
+        {
+          "text": "Assassin bug",
+          "points": 4
+        },
+        {
+          "text": "Thrips",
+          "points": 4
+        },
+        {
+          "text": "Leaf-footed bug",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something that gets clogged easily",
+      "hint": "Think about where water goes once you pull the plug.",
+      "answers": [
+        {
+          "text": "Drain",
+          "points": 100
+        },
+        {
+          "text": "Nose",
+          "points": 64
+        },
+        {
+          "text": "Sink",
+          "points": 64
+        },
+        {
+          "text": "Toilet",
+          "points": 64
+        },
+        {
+          "text": "Ears",
+          "points": 32
+        },
+        {
+          "text": "Arteries",
+          "points": 16
+        },
+        {
+          "text": "Gutters",
+          "points": 16
+        },
+        {
+          "text": "Vacuum cleaner",
+          "points": 16
+        },
+        {
+          "text": "Air filter",
+          "points": 16
+        },
+        {
+          "text": "Showerhead",
+          "points": 8
+        },
+        {
+          "text": "Pores",
+          "points": 8
+        },
+        {
+          "text": "Chimney",
+          "points": 8
+        },
+        {
+          "text": "Garbage disposal",
+          "points": 8
+        },
+        {
+          "text": "Dishwasher",
+          "points": 8
+        },
+        {
+          "text": "Dryer vent",
+          "points": 8
+        },
+        {
+          "text": "Sewer",
+          "points": 8
+        },
+        {
+          "text": "Fuel filter",
+          "points": 8
+        },
+        {
+          "text": "Coffee filter",
+          "points": 8
+        },
+        {
+          "text": "Straw",
+          "points": 8
+        },
+        {
+          "text": "Shower filter",
+          "points": 4
+        },
+        {
+          "text": "Keurig",
+          "points": 4
+        },
+        {
+          "text": "Inkjet printer",
+          "points": 4
+        },
+        {
+          "text": "Spray bottle",
+          "points": 4
+        },
+        {
+          "text": "Squirt gun",
+          "points": 4
+        },
+        {
+          "text": "Funnel",
+          "points": 4
+        },
+        {
+          "text": "Salt shaker",
+          "points": 4
+        },
+        {
+          "text": "Pepper shaker",
+          "points": 4
+        },
+        {
+          "text": "Syringe",
+          "points": 4
+        },
+        {
+          "text": "Earbuds",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something coworkers do while pretending to listen",
+      "hint": "Picture a meeting where someone's thumbs are busy under the table.",
+      "answers": [
+        {
+          "text": "Text",
+          "points": 100
+        },
+        {
+          "text": "Daydream",
+          "points": 64
+        },
+        {
+          "text": "Check email",
+          "points": 64
+        },
+        {
+          "text": "Doodle",
+          "points": 64
+        },
+        {
+          "text": "Scroll social media",
+          "points": 32
+        },
+        {
+          "text": "Work on another project",
+          "points": 32
+        },
+        {
+          "text": "Nod along",
+          "points": 32
+        },
+        {
+          "text": "Shop online",
+          "points": 32
+        },
+        {
+          "text": "Play games",
+          "points": 32
+        },
+        {
+          "text": "Eat snacks",
+          "points": 16
+        },
+        {
+          "text": "Watch videos",
+          "points": 16
+        },
+        {
+          "text": "Whisper to someone",
+          "points": 16
+        },
+        {
+          "text": "Stare out the window",
+          "points": 16
+        },
+        {
+          "text": "Pretend to take notes",
+          "points": 16
+        },
+        {
+          "text": "Check the time",
+          "points": 8
+        },
+        {
+          "text": "Drink coffee",
+          "points": 8
+        },
+        {
+          "text": "Fall asleep",
+          "points": 8
+        },
+        {
+          "text": "Click a pen",
+          "points": 8
+        },
+        {
+          "text": "Mute their microphone",
+          "points": 8
+        },
+        {
+          "text": "Say \"uh-huh\"",
+          "points": 8
+        },
+        {
+          "text": "Smile",
+          "points": 4
+        },
+        {
+          "text": "File their nails",
+          "points": 4
+        },
+        {
+          "text": "Bite their nails",
+          "points": 4
+        },
+        {
+          "text": "Chew gum",
+          "points": 4
+        },
+        {
+          "text": "Read the news",
+          "points": 4
+        },
+        {
+          "text": "Read a book",
+          "points": 4
+        },
+        {
+          "text": "Listen to music",
+          "points": 4
+        },
+        {
+          "text": "Pet their dog or cat",
+          "points": 4
+        },
+        {
+          "text": "Fold laundry",
+          "points": 4
+        },
+        {
+          "text": "Cook",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something you wouldn't buy online without seeing it in person",
+      "hint": "Think of a purchase you'd want to take for a spin first.",
+      "answers": [
+        {
+          "text": "Car",
+          "points": 100
+        },
+        {
+          "text": "Clothes",
+          "points": 64
+        },
+        {
+          "text": "House",
+          "points": 64
+        },
+        {
+          "text": "Jewelry",
+          "points": 64
+        },
+        {
+          "text": "Furniture",
+          "points": 16
+        },
+        {
+          "text": "Mattress",
+          "points": 16
+        },
+        {
+          "text": "Shoes",
+          "points": 16
+        },
+        {
+          "text": "Dog",
+          "points": 16
+        },
+        {
+          "text": "Artwork",
+          "points": 16
+        },
+        {
+          "text": "Antiques",
+          "points": 8
+        },
+        {
+          "text": "Bicycle",
+          "points": 8
+        },
+        {
+          "text": "Boat",
+          "points": 8
+        },
+        {
+          "text": "Produce",
+          "points": 8
+        },
+        {
+          "text": "Meat",
+          "points": 8
+        },
+        {
+          "text": "Flowers",
+          "points": 8
+        },
+        {
+          "text": "Eyeglasses",
+          "points": 8
+        },
+        {
+          "text": "Perfume",
+          "points": 8
+        },
+        {
+          "text": "Makeup",
+          "points": 8
+        },
+        {
+          "text": "Houseplants",
+          "points": 8
+        },
+        {
+          "text": "Headphones",
+          "points": 4
+        },
+        {
+          "text": "Musical instrument",
+          "points": 4
+        },
+        {
+          "text": "Motorcycle",
+          "points": 4
+        },
+        {
+          "text": "RV",
+          "points": 4
+        },
+        {
+          "text": "Fish",
+          "points": 4
+        },
+        {
+          "text": "Cheese",
+          "points": 4
+        },
+        {
+          "text": "Wine",
+          "points": 4
+        },
+        {
+          "text": "Cake",
+          "points": 4
+        },
+        {
+          "text": "Luggage",
+          "points": 4
+        },
+        {
+          "text": "Purse",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}
