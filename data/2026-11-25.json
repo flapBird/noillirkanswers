@@ -1,0 +1,778 @@
+{
+  "date": "2026-11-25",
+  "status": "verified",
+  "source": "https://playdaily.org/noillirk",
+  "checkedAt": "2026-11-25T09:27:14Z",
+  "rounds": [
+    {
+      "question": "Name something you'd store in a basement",
+      "hint": "Picture a box you bring upstairs just once a year.",
+      "answers": [
+        {
+          "text": "Christmas decorations",
+          "points": 100
+        },
+        {
+          "text": "Old furniture",
+          "points": 64
+        },
+        {
+          "text": "Boxes",
+          "points": 64
+        },
+        {
+          "text": "Tools",
+          "points": 64
+        },
+        {
+          "text": "Storage bins",
+          "points": 32
+        },
+        {
+          "text": "Freezer",
+          "points": 32
+        },
+        {
+          "text": "Old clothes",
+          "points": 32
+        },
+        {
+          "text": "Sports equipment",
+          "points": 32
+        },
+        {
+          "text": "Camping gear",
+          "points": 32
+        },
+        {
+          "text": "Bikes",
+          "points": 16
+        },
+        {
+          "text": "Wine",
+          "points": 16
+        },
+        {
+          "text": "Canned food",
+          "points": 16
+        },
+        {
+          "text": "Books",
+          "points": 16
+        },
+        {
+          "text": "Toys",
+          "points": 16
+        },
+        {
+          "text": "Old photos",
+          "points": 16
+        },
+        {
+          "text": "Furnace",
+          "points": 16
+        },
+        {
+          "text": "Water heater",
+          "points": 16
+        },
+        {
+          "text": "Washer and dryer",
+          "points": 16
+        },
+        {
+          "text": "Luggage",
+          "points": 16
+        },
+        {
+          "text": "Old records",
+          "points": 8
+        },
+        {
+          "text": "Board games",
+          "points": 8
+        },
+        {
+          "text": "Halloween decorations",
+          "points": 8
+        },
+        {
+          "text": "Workbench",
+          "points": 8
+        },
+        {
+          "text": "Old TV",
+          "points": 8
+        },
+        {
+          "text": "Exercise equipment",
+          "points": 8
+        },
+        {
+          "text": "Ping pong table",
+          "points": 8
+        },
+        {
+          "text": "Old mattresses",
+          "points": 8
+        },
+        {
+          "text": "Spare bedding",
+          "points": 8
+        },
+        {
+          "text": "Canning jars",
+          "points": 8
+        },
+        {
+          "text": "Emergency supplies",
+          "points": 4
+        },
+        {
+          "text": "Generator",
+          "points": 4
+        },
+        {
+          "text": "Firewood",
+          "points": 4
+        },
+        {
+          "text": "Model trains",
+          "points": 4
+        },
+        {
+          "text": "Family heirlooms",
+          "points": 4
+        },
+        {
+          "text": "Spare parts",
+          "points": 4
+        },
+        {
+          "text": "Sump pump",
+          "points": 4
+        },
+        {
+          "text": "Home brewing equipment",
+          "points": 4
+        },
+        {
+          "text": "Comic books",
+          "points": 4
+        },
+        {
+          "text": "Antiques",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a reason kids give for not liking school",
+      "hint": "Think about what follows a kid home even after the last bell rings.",
+      "answers": [
+        {
+          "text": "Homework",
+          "points": 100
+        },
+        {
+          "text": "Boring",
+          "points": 64
+        },
+        {
+          "text": "Teachers",
+          "points": 64
+        },
+        {
+          "text": "Bullies",
+          "points": 64
+        },
+        {
+          "text": "Too hard",
+          "points": 32
+        },
+        {
+          "text": "Getting up early",
+          "points": 32
+        },
+        {
+          "text": "Tests",
+          "points": 32
+        },
+        {
+          "text": "No friends",
+          "points": 16
+        },
+        {
+          "text": "Bad cafeteria food",
+          "points": 16
+        },
+        {
+          "text": "Too many rules",
+          "points": 8
+        },
+        {
+          "text": "Long school day",
+          "points": 8
+        },
+        {
+          "text": "No recess",
+          "points": 8
+        },
+        {
+          "text": "Having to sit still",
+          "points": 8
+        },
+        {
+          "text": "Grades",
+          "points": 8
+        },
+        {
+          "text": "School uniforms",
+          "points": 8
+        },
+        {
+          "text": "Bus ride",
+          "points": 8
+        },
+        {
+          "text": "Crowded classrooms",
+          "points": 8
+        },
+        {
+          "text": "Too noisy",
+          "points": 8
+        },
+        {
+          "text": "Detention",
+          "points": 8
+        },
+        {
+          "text": "Too hot",
+          "points": 4
+        },
+        {
+          "text": "Getting sick",
+          "points": 4
+        },
+        {
+          "text": "Can't talk in class",
+          "points": 4
+        },
+        {
+          "text": "Too much walking",
+          "points": 4
+        },
+        {
+          "text": "The principal",
+          "points": 4
+        },
+        {
+          "text": "School fees",
+          "points": 4
+        },
+        {
+          "text": "Carrying a heavy backpack",
+          "points": 4
+        },
+        {
+          "text": "Waiting in line",
+          "points": 4
+        },
+        {
+          "text": "School starts too early",
+          "points": 4
+        },
+        {
+          "text": "Not enough sleep",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a class parents enroll their kids in before they turn three",
+      "hint": "Imagine a toddler taking a lesson with a parent, both dressed for the pool.",
+      "answers": [
+        {
+          "text": "Swimming",
+          "points": 100
+        },
+        {
+          "text": "Dance",
+          "points": 64
+        },
+        {
+          "text": "Art",
+          "points": 64
+        },
+        {
+          "text": "Gymnastics",
+          "points": 64
+        },
+        {
+          "text": "Music",
+          "points": 32
+        },
+        {
+          "text": "Soccer",
+          "points": 16
+        },
+        {
+          "text": "Karate",
+          "points": 16
+        },
+        {
+          "text": "Baby sign language",
+          "points": 16
+        },
+        {
+          "text": "Yoga",
+          "points": 16
+        },
+        {
+          "text": "Preschool",
+          "points": 8
+        },
+        {
+          "text": "Cooking",
+          "points": 4
+        },
+        {
+          "text": "Spanish",
+          "points": 4
+        },
+        {
+          "text": "French",
+          "points": 4
+        },
+        {
+          "text": "Reading",
+          "points": 4
+        },
+        {
+          "text": "Playgroup",
+          "points": 4
+        },
+        {
+          "text": "Sensory play",
+          "points": 4
+        },
+        {
+          "text": "Tennis",
+          "points": 4
+        },
+        {
+          "text": "Basketball",
+          "points": 4
+        },
+        {
+          "text": "Baseball",
+          "points": 4
+        },
+        {
+          "text": "Golf",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something people put off until it becomes embarrassing",
+      "hint": "Think about the chore you remember when you open an empty sock drawer.",
+      "answers": [
+        {
+          "text": "Do laundry",
+          "points": 100
+        },
+        {
+          "text": "Tidy the house",
+          "points": 64
+        },
+        {
+          "text": "Get a haircut",
+          "points": 64
+        },
+        {
+          "text": "Take a shower",
+          "points": 64
+        },
+        {
+          "text": "Go to the dentist",
+          "points": 32
+        },
+        {
+          "text": "Pay bills",
+          "points": 32
+        },
+        {
+          "text": "Take out the trash",
+          "points": 32
+        },
+        {
+          "text": "Wash the dishes",
+          "points": 32
+        },
+        {
+          "text": "Reply to messages",
+          "points": 32
+        },
+        {
+          "text": "Brush their teeth",
+          "points": 16
+        },
+        {
+          "text": "Replace worn-out clothes",
+          "points": 16
+        },
+        {
+          "text": "Apologize",
+          "points": 16
+        },
+        {
+          "text": "Return borrowed things",
+          "points": 16
+        },
+        {
+          "text": "Put on deodorant",
+          "points": 16
+        },
+        {
+          "text": "Wash the car",
+          "points": 16
+        },
+        {
+          "text": "Shave",
+          "points": 8
+        },
+        {
+          "text": "Trim their nails",
+          "points": 8
+        },
+        {
+          "text": "Replace worn-out shoes",
+          "points": 8
+        },
+        {
+          "text": "Buy a gift",
+          "points": 8
+        },
+        {
+          "text": "Fix a broken zipper",
+          "points": 8
+        },
+        {
+          "text": "Update their resume",
+          "points": 8
+        },
+        {
+          "text": "Send thank-you notes",
+          "points": 4
+        },
+        {
+          "text": "Practice a speech",
+          "points": 4
+        },
+        {
+          "text": "Learn someone's name",
+          "points": 4
+        },
+        {
+          "text": "Tell someone bad news",
+          "points": 4
+        },
+        {
+          "text": "Get their glasses fixed",
+          "points": 4
+        },
+        {
+          "text": "Get the car repaired",
+          "points": 4
+        },
+        {
+          "text": "Mow the lawn",
+          "points": 4
+        },
+        {
+          "text": "Take down holiday decorations",
+          "points": 4
+        },
+        {
+          "text": "Touch up their roots",
+          "points": 4
+        },
+        {
+          "text": "Buy groceries",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something Hollywood could do to make better movies",
+      "hint": "Picture two people auditioning for the same role and getting very different reactions to the same line.",
+      "answers": [
+        {
+          "text": "Better actors",
+          "points": 100
+        },
+        {
+          "text": "Better stories",
+          "points": 64
+        },
+        {
+          "text": "Hire better directors",
+          "points": 32
+        },
+        {
+          "text": "Hire better writers",
+          "points": 32
+        },
+        {
+          "text": "Stop making remakes",
+          "points": 32
+        },
+        {
+          "text": "Make fewer sequels",
+          "points": 32
+        },
+        {
+          "text": "Spend more money",
+          "points": 32
+        },
+        {
+          "text": "Use fewer special effects",
+          "points": 16
+        },
+        {
+          "text": "Listen to audiences",
+          "points": 16
+        },
+        {
+          "text": "Take more creative risks",
+          "points": 8
+        },
+        {
+          "text": "Improve the dialogue",
+          "points": 8
+        },
+        {
+          "text": "Improve the editing",
+          "points": 8
+        },
+        {
+          "text": "Use better music",
+          "points": 8
+        },
+        {
+          "text": "Improve the cinematography",
+          "points": 8
+        },
+        {
+          "text": "Hire better producers",
+          "points": 8
+        },
+        {
+          "text": "Make shorter movies",
+          "points": 8
+        },
+        {
+          "text": "Make more comedies",
+          "points": 8
+        },
+        {
+          "text": "Make more family movies",
+          "points": 8
+        },
+        {
+          "text": "Use less profanity",
+          "points": 8
+        }
+      ]
+    },
+    {
+      "question": "Name something that's hard to get over",
+      "hint": "Think of a change that makes even hearing a familiar love song feel different.",
+      "answers": [
+        {
+          "text": "Breakup",
+          "points": 100
+        },
+        {
+          "text": "Death",
+          "points": 64
+        },
+        {
+          "text": "Fence",
+          "points": 64
+        },
+        {
+          "text": "Virus",
+          "points": 64
+        },
+        {
+          "text": "Mountain",
+          "points": 32
+        },
+        {
+          "text": "Divorce",
+          "points": 16
+        },
+        {
+          "text": "Rejection",
+          "points": 8
+        },
+        {
+          "text": "Betrayal",
+          "points": 8
+        },
+        {
+          "text": "Heartbreak",
+          "points": 8
+        },
+        {
+          "text": "An argument",
+          "points": 4
+        },
+        {
+          "text": "A grudge",
+          "points": 4
+        },
+        {
+          "text": "Embarrassment",
+          "points": 4
+        },
+        {
+          "text": "A mistake",
+          "points": 4
+        },
+        {
+          "text": "Failure",
+          "points": 4
+        },
+        {
+          "text": "Losing a job",
+          "points": 4
+        },
+        {
+          "text": "Losing a game",
+          "points": 4
+        },
+        {
+          "text": "A bad grade",
+          "points": 4
+        },
+        {
+          "text": "A bad childhood",
+          "points": 4
+        },
+        {
+          "text": "Trauma",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something you never mean to buy at the store but always end up with",
+      "hint": "Picture what catches your eye in the checkout line when you're hungry.",
+      "answers": [
+        {
+          "text": "Junk food",
+          "points": 100
+        },
+        {
+          "text": "Clothes",
+          "points": 64
+        },
+        {
+          "text": "Magazines",
+          "points": 64
+        },
+        {
+          "text": "Candy",
+          "points": 32
+        },
+        {
+          "text": "Gum",
+          "points": 32
+        },
+        {
+          "text": "Lottery tickets",
+          "points": 32
+        },
+        {
+          "text": "Flowers",
+          "points": 32
+        },
+        {
+          "text": "Books",
+          "points": 32
+        },
+        {
+          "text": "Toys",
+          "points": 16
+        },
+        {
+          "text": "Makeup",
+          "points": 16
+        },
+        {
+          "text": "Candles",
+          "points": 16
+        },
+        {
+          "text": "Greeting cards",
+          "points": 16
+        },
+        {
+          "text": "Shoes",
+          "points": 16
+        },
+        {
+          "text": "Batteries",
+          "points": 16
+        },
+        {
+          "text": "Soda",
+          "points": 16
+        },
+        {
+          "text": "Wine",
+          "points": 8
+        },
+        {
+          "text": "Beer",
+          "points": 8
+        },
+        {
+          "text": "Coffee",
+          "points": 8
+        },
+        {
+          "text": "Bottled water",
+          "points": 8
+        },
+        {
+          "text": "Fruit",
+          "points": 8
+        },
+        {
+          "text": "Bread",
+          "points": 8
+        },
+        {
+          "text": "Milk",
+          "points": 8
+        },
+        {
+          "text": "Eggs",
+          "points": 8
+        },
+        {
+          "text": "Cheese",
+          "points": 8
+        },
+        {
+          "text": "Cereal",
+          "points": 8
+        }
+      ]
+    }
+  ]
+}
