@@ -1,0 +1,810 @@
+{
+  "date": "2026-11-26",
+  "status": "verified",
+  "source": "https://playdaily.org/noillirk",
+  "checkedAt": "2026-11-26T04:02:50Z",
+  "rounds": [
+    {
+      "question": "Name something a parent tries to get their baby to sleep",
+      "hint": "The baby may already know the sound of this bedtime ritual from the first few notes.",
+      "answers": [
+        {
+          "text": "Singing",
+          "points": 100
+        },
+        {
+          "text": "Rocking",
+          "points": 64
+        },
+        {
+          "text": "Warm milk",
+          "points": 64
+        },
+        {
+          "text": "Car ride",
+          "points": 64
+        },
+        {
+          "text": "Reading a story",
+          "points": 16
+        },
+        {
+          "text": "Giving them a pacifier",
+          "points": 16
+        },
+        {
+          "text": "Walking with them",
+          "points": 8
+        },
+        {
+          "text": "Giving them a bath",
+          "points": 8
+        },
+        {
+          "text": "Playing music",
+          "points": 8
+        },
+        {
+          "text": "Swaddling them",
+          "points": 4
+        },
+        {
+          "text": "Giving them a stuffed animal",
+          "points": 4
+        },
+        {
+          "text": "Turning on white noise",
+          "points": 4
+        },
+        {
+          "text": "Taking them for a stroller ride",
+          "points": 4
+        },
+        {
+          "text": "Patting their back",
+          "points": 4
+        },
+        {
+          "text": "Rubbing their back",
+          "points": 4
+        },
+        {
+          "text": "Giving them a massage",
+          "points": 4
+        },
+        {
+          "text": "Dim the lights",
+          "points": 4
+        },
+        {
+          "text": "Turning off the lights",
+          "points": 4
+        },
+        {
+          "text": "Putting them in a crib",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something kids do on a farm",
+      "hint": "Think of an afternoon activity that starts with a saddle.",
+      "answers": [
+        {
+          "text": "Ride horses",
+          "points": 100
+        },
+        {
+          "text": "Milk cows",
+          "points": 64
+        },
+        {
+          "text": "Play",
+          "points": 64
+        },
+        {
+          "text": "Feed animals",
+          "points": 64
+        },
+        {
+          "text": "Collect eggs",
+          "points": 32
+        },
+        {
+          "text": "Pick vegetables",
+          "points": 32
+        },
+        {
+          "text": "Drive a tractor",
+          "points": 32
+        },
+        {
+          "text": "Plant seeds",
+          "points": 16
+        },
+        {
+          "text": "Do chores",
+          "points": 16
+        },
+        {
+          "text": "Pick fruit",
+          "points": 8
+        },
+        {
+          "text": "Pet animals",
+          "points": 8
+        },
+        {
+          "text": "Clean stalls",
+          "points": 8
+        },
+        {
+          "text": "Ride in a wagon",
+          "points": 8
+        },
+        {
+          "text": "Chase chickens",
+          "points": 8
+        },
+        {
+          "text": "Climb trees",
+          "points": 8
+        },
+        {
+          "text": "Pick flowers",
+          "points": 8
+        },
+        {
+          "text": "Water plants",
+          "points": 8
+        },
+        {
+          "text": "Ride a pony",
+          "points": 8
+        },
+        {
+          "text": "Watch animals",
+          "points": 8
+        },
+        {
+          "text": "Fly a kite",
+          "points": 4
+        },
+        {
+          "text": "Walk through fields",
+          "points": 4
+        },
+        {
+          "text": "Gather firewood",
+          "points": 4
+        },
+        {
+          "text": "Stack hay",
+          "points": 4
+        },
+        {
+          "text": "Sweep the barn",
+          "points": 4
+        },
+        {
+          "text": "Wash the tractor",
+          "points": 4
+        },
+        {
+          "text": "Pull weeds",
+          "points": 4
+        },
+        {
+          "text": "Plant a garden",
+          "points": 4
+        },
+        {
+          "text": "Pick pumpkins",
+          "points": 4
+        },
+        {
+          "text": "Rake leaves",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something people are afraid to try even though it looks fun",
+      "hint": "Picture standing on the edge of a bridge and trusting a stretchy cord.",
+      "answers": [
+        {
+          "text": "Bungee jumping",
+          "points": 100
+        },
+        {
+          "text": "Parachuting",
+          "points": 64
+        },
+        {
+          "text": "Roller coaster",
+          "points": 64
+        },
+        {
+          "text": "Hang gliding",
+          "points": 64
+        },
+        {
+          "text": "Skiing",
+          "points": 32
+        },
+        {
+          "text": "Zip-lining",
+          "points": 16
+        },
+        {
+          "text": "Scuba diving",
+          "points": 16
+        },
+        {
+          "text": "Rock climbing",
+          "points": 16
+        },
+        {
+          "text": "Whitewater rafting",
+          "points": 16
+        },
+        {
+          "text": "Surfing",
+          "points": 8
+        },
+        {
+          "text": "Parasailing",
+          "points": 8
+        },
+        {
+          "text": "Hot air balloon ride",
+          "points": 8
+        },
+        {
+          "text": "Flying in an airplane",
+          "points": 8
+        },
+        {
+          "text": "Riding a motorcycle",
+          "points": 8
+        },
+        {
+          "text": "Swimming with sharks",
+          "points": 8
+        },
+        {
+          "text": "Riding a horse",
+          "points": 8
+        },
+        {
+          "text": "Water skiing",
+          "points": 8
+        },
+        {
+          "text": "Snowboarding",
+          "points": 8
+        },
+        {
+          "text": "Riding a Ferris wheel",
+          "points": 8
+        },
+        {
+          "text": "Driving a race car",
+          "points": 4
+        },
+        {
+          "text": "Riding a mechanical bull",
+          "points": 4
+        },
+        {
+          "text": "Walking a tightrope",
+          "points": 4
+        },
+        {
+          "text": "Riding a camel",
+          "points": 4
+        },
+        {
+          "text": "Swimming in the ocean",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something a mom says when her child refuses dinner",
+      "hint": "The plate is staying on the table. What two choices does Mom give?",
+      "answers": [
+        {
+          "text": "Eat it or go hungry",
+          "points": 100
+        },
+        {
+          "text": "No dessert until you eat",
+          "points": 64
+        },
+        {
+          "text": "Children are starving",
+          "points": 64
+        },
+        {
+          "text": "Just try one bite",
+          "points": 64
+        },
+        {
+          "text": "I'm not making anything else",
+          "points": 32
+        },
+        {
+          "text": "You can't leave until you finish",
+          "points": 32
+        },
+        {
+          "text": "Because I said so",
+          "points": 32
+        },
+        {
+          "text": "You liked it last time",
+          "points": 32
+        },
+        {
+          "text": "It will make you big and strong",
+          "points": 32
+        },
+        {
+          "text": "You haven't even tasted it",
+          "points": 16
+        },
+        {
+          "text": "I worked hard to make this",
+          "points": 16
+        },
+        {
+          "text": "Stop playing with your food",
+          "points": 16
+        },
+        {
+          "text": "You asked me to make this",
+          "points": 16
+        },
+        {
+          "text": "What's wrong with it?",
+          "points": 16
+        },
+        {
+          "text": "Are you feeling sick?",
+          "points": 16
+        },
+        {
+          "text": "You're wasting food",
+          "points": 8
+        },
+        {
+          "text": "Eat your vegetables",
+          "points": 8
+        },
+        {
+          "text": "I'll feed you myself",
+          "points": 8
+        },
+        {
+          "text": "Do you want ketchup?",
+          "points": 8
+        },
+        {
+          "text": "Your sibling is eating nicely",
+          "points": 8
+        },
+        {
+          "text": "No TV until you eat",
+          "points": 8
+        },
+        {
+          "text": "You ate too many snacks",
+          "points": 8
+        },
+        {
+          "text": "Fine, don't eat",
+          "points": 8
+        },
+        {
+          "text": "At least drink your milk",
+          "points": 8
+        },
+        {
+          "text": "Here comes the airplane",
+          "points": 4
+        },
+        {
+          "text": "Would you like something else?",
+          "points": 4
+        },
+        {
+          "text": "Let it cool down",
+          "points": 4
+        },
+        {
+          "text": "I'll cut it up for you",
+          "points": 4
+        },
+        {
+          "text": "Let's take a bite together",
+          "points": 4
+        },
+        {
+          "text": "Your favorite character eats this",
+          "points": 4
+        },
+        {
+          "text": "Food costs money",
+          "points": 4
+        },
+        {
+          "text": "Wait until your father hears",
+          "points": 4
+        },
+        {
+          "text": "You're hurting my feelings",
+          "points": 4
+        },
+        {
+          "text": "Are you too tired?",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something you might find in a ski lodge",
+      "hint": "Where would you pull up a chair to warm your hands after a run?",
+      "answers": [
+        {
+          "text": "Fireplace",
+          "points": 100
+        },
+        {
+          "text": "Skis",
+          "points": 64
+        },
+        {
+          "text": "Skiers",
+          "points": 64
+        },
+        {
+          "text": "Snow",
+          "points": 64
+        },
+        {
+          "text": "Heater",
+          "points": 32
+        },
+        {
+          "text": "Hot chocolate",
+          "points": 32
+        },
+        {
+          "text": "Ski boots",
+          "points": 32
+        },
+        {
+          "text": "Ski poles",
+          "points": 32
+        },
+        {
+          "text": "Winter coats",
+          "points": 32
+        },
+        {
+          "text": "A bar",
+          "points": 16
+        },
+        {
+          "text": "A restaurant",
+          "points": 16
+        },
+        {
+          "text": "A couch",
+          "points": 16
+        },
+        {
+          "text": "A fireplace mantel",
+          "points": 16
+        },
+        {
+          "text": "Blankets",
+          "points": 8
+        },
+        {
+          "text": "A fire",
+          "points": 8
+        },
+        {
+          "text": "Snowboards",
+          "points": 8
+        },
+        {
+          "text": "Sleds",
+          "points": 8
+        },
+        {
+          "text": "Goggles",
+          "points": 8
+        },
+        {
+          "text": "Gloves",
+          "points": 8
+        },
+        {
+          "text": "Hats",
+          "points": 8
+        },
+        {
+          "text": "Scarves",
+          "points": 8
+        },
+        {
+          "text": "Ski racks",
+          "points": 8
+        },
+        {
+          "text": "A chair",
+          "points": 8
+        },
+        {
+          "text": "Logs",
+          "points": 4
+        },
+        {
+          "text": "A fireplace screen",
+          "points": 4
+        },
+        {
+          "text": "A coat rack",
+          "points": 4
+        },
+        {
+          "text": "Wet clothes",
+          "points": 4
+        },
+        {
+          "text": "A view of the mountains",
+          "points": 4
+        },
+        {
+          "text": "A ski lift nearby",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a common kitchen smell people love",
+      "hint": "Imagine waking up to the smoky smell of breakfast sizzling in a skillet.",
+      "answers": [
+        {
+          "text": "Bacon",
+          "points": 100
+        },
+        {
+          "text": "Fresh bread",
+          "points": 64
+        },
+        {
+          "text": "Coffee",
+          "points": 64
+        },
+        {
+          "text": "Cookies baking",
+          "points": 64
+        },
+        {
+          "text": "Garlic",
+          "points": 32
+        },
+        {
+          "text": "Cinnamon",
+          "points": 32
+        },
+        {
+          "text": "Pie",
+          "points": 32
+        },
+        {
+          "text": "Vanilla",
+          "points": 32
+        },
+        {
+          "text": "Roasting chicken",
+          "points": 32
+        },
+        {
+          "text": "Onions cooking",
+          "points": 16
+        },
+        {
+          "text": "Chocolate chip cookies",
+          "points": 16
+        },
+        {
+          "text": "Bread baking",
+          "points": 16
+        },
+        {
+          "text": "Pancakes",
+          "points": 16
+        },
+        {
+          "text": "Popcorn",
+          "points": 16
+        },
+        {
+          "text": "Apple pie",
+          "points": 8
+        },
+        {
+          "text": "Turkey roasting",
+          "points": 8
+        },
+        {
+          "text": "Cinnamon rolls",
+          "points": 8
+        },
+        {
+          "text": "Sauteed garlic",
+          "points": 8
+        },
+        {
+          "text": "Fresh herbs",
+          "points": 8
+        },
+        {
+          "text": "Brownies",
+          "points": 8
+        },
+        {
+          "text": "Grilled cheese",
+          "points": 8
+        },
+        {
+          "text": "Soup simmering",
+          "points": 8
+        },
+        {
+          "text": "Banana bread",
+          "points": 8
+        },
+        {
+          "text": "Barbecue",
+          "points": 8
+        },
+        {
+          "text": "Fresh basil",
+          "points": 4
+        },
+        {
+          "text": "Cornbread",
+          "points": 4
+        },
+        {
+          "text": "Gingerbread",
+          "points": 4
+        },
+        {
+          "text": "Simmering sauce",
+          "points": 4
+        },
+        {
+          "text": "Roasting vegetables",
+          "points": 4
+        },
+        {
+          "text": "Espresso",
+          "points": 4
+        },
+        {
+          "text": "Caramelized onions",
+          "points": 4
+        },
+        {
+          "text": "Fresh mint",
+          "points": 4
+        },
+        {
+          "text": "Pumpkin spice",
+          "points": 4
+        },
+        {
+          "text": "Stew cooking",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something you might see in a beauty shop",
+      "hint": "Picture the noisy tool a stylist reaches for after towel-drying a client's hair.",
+      "answers": [
+        {
+          "text": "Hair dryer",
+          "points": 100
+        },
+        {
+          "text": "Scissors",
+          "points": 64
+        },
+        {
+          "text": "Makeup",
+          "points": 64
+        },
+        {
+          "text": "Salon chairs",
+          "points": 64
+        },
+        {
+          "text": "Shampoo",
+          "points": 32
+        },
+        {
+          "text": "Women",
+          "points": 32
+        },
+        {
+          "text": "Mirrors",
+          "points": 16
+        },
+        {
+          "text": "Combs",
+          "points": 16
+        },
+        {
+          "text": "Hairbrushes",
+          "points": 16
+        },
+        {
+          "text": "Hair spray",
+          "points": 8
+        },
+        {
+          "text": "Hair dye",
+          "points": 8
+        },
+        {
+          "text": "Curling irons",
+          "points": 4
+        },
+        {
+          "text": "Flat irons",
+          "points": 4
+        },
+        {
+          "text": "Hair rollers",
+          "points": 4
+        },
+        {
+          "text": "Nail polish",
+          "points": 4
+        },
+        {
+          "text": "Nail files",
+          "points": 4
+        },
+        {
+          "text": "Towels",
+          "points": 4
+        },
+        {
+          "text": "Washbasins",
+          "points": 4
+        },
+        {
+          "text": "Styling capes",
+          "points": 4
+        },
+        {
+          "text": "Magazines",
+          "points": 4
+        },
+        {
+          "text": "Hair stylists",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}
