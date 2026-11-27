@@ -1,0 +1,674 @@
+{
+  "date": "2026-11-27",
+  "status": "verified",
+  "source": "https://playdaily.org/noillirk",
+  "checkedAt": "2026-11-27T02:00:49Z",
+  "rounds": [
+    {
+      "question": "Name a job a clumsy person would be fired from immediately",
+      "hint": "Picture someone weaving between crowded tables with a tray balanced on one hand.",
+      "answers": [
+        {
+          "text": "Food server",
+          "points": 100
+        },
+        {
+          "text": "Surgeon",
+          "points": 64
+        },
+        {
+          "text": "Construction worker",
+          "points": 64
+        },
+        {
+          "text": "Dancer",
+          "points": 64
+        },
+        {
+          "text": "Acrobat",
+          "points": 32
+        },
+        {
+          "text": "Bartender",
+          "points": 32
+        },
+        {
+          "text": "Pilot",
+          "points": 16
+        },
+        {
+          "text": "Glassware store clerk",
+          "points": 16
+        },
+        {
+          "text": "Juggler",
+          "points": 16
+        },
+        {
+          "text": "Hairdresser",
+          "points": 8
+        },
+        {
+          "text": "Electrician",
+          "points": 8
+        },
+        {
+          "text": "Dentist",
+          "points": 8
+        },
+        {
+          "text": "Chef",
+          "points": 8
+        },
+        {
+          "text": "Photographer",
+          "points": 8
+        },
+        {
+          "text": "House painter",
+          "points": 8
+        },
+        {
+          "text": "Truck driver",
+          "points": 8
+        },
+        {
+          "text": "Firefighter",
+          "points": 8
+        },
+        {
+          "text": "Police officer",
+          "points": 4
+        },
+        {
+          "text": "Lifeguard",
+          "points": 4
+        },
+        {
+          "text": "Babysitter",
+          "points": 4
+        },
+        {
+          "text": "Dishwasher",
+          "points": 4
+        },
+        {
+          "text": "Window washer",
+          "points": 4
+        },
+        {
+          "text": "Roofer",
+          "points": 4
+        },
+        {
+          "text": "Carpenter",
+          "points": 4
+        },
+        {
+          "text": "Plumber",
+          "points": 4
+        },
+        {
+          "text": "Mechanic",
+          "points": 4
+        },
+        {
+          "text": "Forklift operator",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a salad that isn't green",
+      "hint": "Think of a picnic side dish that starts with a pot of boiling water.",
+      "answers": [
+        {
+          "text": "Pasta salad",
+          "points": 100
+        },
+        {
+          "text": "Potato salad",
+          "points": 64
+        },
+        {
+          "text": "Fruit salad",
+          "points": 64
+        },
+        {
+          "text": "Taco salad",
+          "points": 64
+        },
+        {
+          "text": "Egg salad",
+          "points": 32
+        },
+        {
+          "text": "Macaroni salad",
+          "points": 16
+        },
+        {
+          "text": "Coleslaw",
+          "points": 16
+        },
+        {
+          "text": "Chicken salad",
+          "points": 8
+        },
+        {
+          "text": "Tuna salad",
+          "points": 8
+        },
+        {
+          "text": "Ham salad",
+          "points": 4
+        },
+        {
+          "text": "Shrimp salad",
+          "points": 4
+        },
+        {
+          "text": "Crab salad",
+          "points": 4
+        },
+        {
+          "text": "Three-bean salad",
+          "points": 4
+        },
+        {
+          "text": "Corn salad",
+          "points": 4
+        },
+        {
+          "text": "Carrot salad",
+          "points": 4
+        },
+        {
+          "text": "Beet salad",
+          "points": 4
+        },
+        {
+          "text": "Tomato salad",
+          "points": 4
+        },
+        {
+          "text": "Caprese salad",
+          "points": 4
+        },
+        {
+          "text": "Antipasto salad",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something a house cleaner cleans more often than you do",
+      "hint": "Which bathroom fixture usually has its own brush standing beside it?",
+      "answers": [
+        {
+          "text": "Toilet",
+          "points": 100
+        },
+        {
+          "text": "Windows",
+          "points": 64
+        },
+        {
+          "text": "Floor",
+          "points": 64
+        },
+        {
+          "text": "Stove",
+          "points": 64
+        },
+        {
+          "text": "Ceiling fan",
+          "points": 32
+        },
+        {
+          "text": "Bathtub",
+          "points": 16
+        },
+        {
+          "text": "Shower",
+          "points": 16
+        },
+        {
+          "text": "Sink",
+          "points": 16
+        },
+        {
+          "text": "Mirror",
+          "points": 8
+        },
+        {
+          "text": "Countertops",
+          "points": 4
+        },
+        {
+          "text": "Baseboards",
+          "points": 4
+        },
+        {
+          "text": "Refrigerator",
+          "points": 4
+        },
+        {
+          "text": "Microwave",
+          "points": 4
+        },
+        {
+          "text": "Dishwasher",
+          "points": 4
+        },
+        {
+          "text": "Cabinets",
+          "points": 4
+        },
+        {
+          "text": "Doors",
+          "points": 4
+        },
+        {
+          "text": "Doorknobs",
+          "points": 4
+        },
+        {
+          "text": "Blinds",
+          "points": 4
+        },
+        {
+          "text": "Curtains",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something a cowboy might do to catch a woman's eye",
+      "hint": "Picture a wordless greeting in a Western. Where does his hand go?",
+      "answers": [
+        {
+          "text": "Tip his hat",
+          "points": 100
+        },
+        {
+          "text": "Show off his lasso skills",
+          "points": 64
+        },
+        {
+          "text": "Ride his horse",
+          "points": 64
+        },
+        {
+          "text": "Wink at her",
+          "points": 64
+        },
+        {
+          "text": "Two-step",
+          "points": 32
+        },
+        {
+          "text": "Buy her a drink",
+          "points": 32
+        },
+        {
+          "text": "Smile at her",
+          "points": 32
+        },
+        {
+          "text": "Sing to her",
+          "points": 32
+        },
+        {
+          "text": "Play his guitar",
+          "points": 32
+        },
+        {
+          "text": "Give her flowers",
+          "points": 16
+        },
+        {
+          "text": "Ask her to dance",
+          "points": 8
+        },
+        {
+          "text": "Flirt with her",
+          "points": 8
+        },
+        {
+          "text": "Compliment her",
+          "points": 8
+        },
+        {
+          "text": "Whistle at her",
+          "points": 8
+        },
+        {
+          "text": "Show off his muscles",
+          "points": 8
+        },
+        {
+          "text": "Take off his hat",
+          "points": 8
+        },
+        {
+          "text": "Open a door for her",
+          "points": 8
+        },
+        {
+          "text": "Give her a gift",
+          "points": 8
+        },
+        {
+          "text": "Talk to her",
+          "points": 8
+        },
+        {
+          "text": "Show off his boots",
+          "points": 8
+        },
+        {
+          "text": "Recite a poem",
+          "points": 4
+        },
+        {
+          "text": "Give her his jacket",
+          "points": 4
+        },
+        {
+          "text": "Pick up the check",
+          "points": 4
+        },
+        {
+          "text": "Saddle her horse",
+          "points": 4
+        },
+        {
+          "text": "Lead her horse",
+          "points": 4
+        },
+        {
+          "text": "Do a cartwheel",
+          "points": 4
+        },
+        {
+          "text": "Show off his ranch",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something credit card companies offer as a reward for signing up",
+      "hint": "Think of a reward you could put straight toward paying your next bill.",
+      "answers": [
+        {
+          "text": "Cash back",
+          "points": 100
+        },
+        {
+          "text": "Free miles",
+          "points": 64
+        },
+        {
+          "text": "Bonus points",
+          "points": 32
+        },
+        {
+          "text": "Gift card",
+          "points": 32
+        },
+        {
+          "text": "Zero interest",
+          "points": 32
+        },
+        {
+          "text": "Waived annual fee",
+          "points": 32
+        },
+        {
+          "text": "Higher credit limit",
+          "points": 16
+        },
+        {
+          "text": "Free hotel stay",
+          "points": 16
+        },
+        {
+          "text": "Merchandise",
+          "points": 16
+        },
+        {
+          "text": "Discounts on purchases",
+          "points": 8
+        },
+        {
+          "text": "Free balance transfer",
+          "points": 8
+        },
+        {
+          "text": "Gas card",
+          "points": 8
+        },
+        {
+          "text": "Concert tickets",
+          "points": 8
+        },
+        {
+          "text": "Airport lounge access",
+          "points": 8
+        },
+        {
+          "text": "Travel insurance",
+          "points": 8
+        },
+        {
+          "text": "Rental car insurance",
+          "points": 8
+        },
+        {
+          "text": "Roadside assistance",
+          "points": 8
+        },
+        {
+          "text": "Purchase protection",
+          "points": 8
+        },
+        {
+          "text": "Extended warranty",
+          "points": 8
+        },
+        {
+          "text": "Free shipping",
+          "points": 4
+        },
+        {
+          "text": "Store membership",
+          "points": 4
+        },
+        {
+          "text": "Credit monitoring",
+          "points": 4
+        },
+        {
+          "text": "Fraud protection",
+          "points": 4
+        },
+        {
+          "text": "No foreign transaction fees",
+          "points": 4
+        },
+        {
+          "text": "Free ATM withdrawals",
+          "points": 4
+        },
+        {
+          "text": "Travel voucher",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a reason you might not have cake on your birthday",
+      "hint": "Imagine someone declining a slice for the same reason they skipped dessert all week.",
+      "answers": [
+        {
+          "text": "On a diet",
+          "points": 100
+        },
+        {
+          "text": "Allergic",
+          "points": 64
+        },
+        {
+          "text": "Don't celebrate",
+          "points": 64
+        },
+        {
+          "text": "Too old",
+          "points": 64
+        },
+        {
+          "text": "Don't like cake",
+          "points": 32
+        },
+        {
+          "text": "Diabetic",
+          "points": 32
+        },
+        {
+          "text": "Couldn't afford one",
+          "points": 16
+        },
+        {
+          "text": "Forgot to buy one",
+          "points": 16
+        },
+        {
+          "text": "Didn't have time to get one",
+          "points": 8
+        },
+        {
+          "text": "Bakery was closed",
+          "points": 4
+        },
+        {
+          "text": "Store was out of cake",
+          "points": 4
+        },
+        {
+          "text": "Cake was ruined",
+          "points": 4
+        },
+        {
+          "text": "Cake was dropped",
+          "points": 4
+        },
+        {
+          "text": "Cake burned in the oven",
+          "points": 4
+        },
+        {
+          "text": "No one made one",
+          "points": 4
+        },
+        {
+          "text": "No one bought one",
+          "points": 4
+        },
+        {
+          "text": "Ate pie instead",
+          "points": 4
+        },
+        {
+          "text": "Had ice cream instead",
+          "points": 4
+        },
+        {
+          "text": "Had cookies instead",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a place you'd start hanging out if you wanted to marry a cowboy",
+      "hint": "Where could you watch a barrel racer and a bull rider compete on the same afternoon?",
+      "answers": [
+        {
+          "text": "Rodeo",
+          "points": 100
+        },
+        {
+          "text": "Saloon",
+          "points": 64
+        },
+        {
+          "text": "Farm",
+          "points": 64
+        },
+        {
+          "text": "Texas",
+          "points": 64
+        },
+        {
+          "text": "Ranch",
+          "points": 16
+        },
+        {
+          "text": "Country bar",
+          "points": 16
+        },
+        {
+          "text": "Horse stable",
+          "points": 16
+        },
+        {
+          "text": "Country dance hall",
+          "points": 16
+        },
+        {
+          "text": "County fair",
+          "points": 16
+        },
+        {
+          "text": "Honky-tonk",
+          "points": 4
+        },
+        {
+          "text": "Cowboy church",
+          "points": 4
+        },
+        {
+          "text": "Horse show",
+          "points": 4
+        },
+        {
+          "text": "Livestock auction",
+          "points": 4
+        },
+        {
+          "text": "Dude ranch",
+          "points": 4
+        },
+        {
+          "text": "Wyoming",
+          "points": 4
+        },
+        {
+          "text": "Montana",
+          "points": 4
+        },
+        {
+          "text": "Oklahoma",
+          "points": 4
+        },
+        {
+          "text": "Colorado",
+          "points": 4
+        },
+        {
+          "text": "New Mexico",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}
