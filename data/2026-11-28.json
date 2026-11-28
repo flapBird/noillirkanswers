@@ -1,0 +1,794 @@
+{
+  "date": "2026-11-28",
+  "status": "verified",
+  "source": "https://playdaily.org/noillirk",
+  "checkedAt": "2026-11-28T02:02:30Z",
+  "rounds": [
+    {
+      "question": "Name a noisy food you'd hate someone chomping next to you at the movies",
+      "hint": "Picture the snack that fills a movie theater and crackles with every bite.",
+      "answers": [
+        {
+          "text": "Popcorn",
+          "points": 100
+        },
+        {
+          "text": "Chips",
+          "points": 64
+        },
+        {
+          "text": "Nachos",
+          "points": 16
+        },
+        {
+          "text": "Pretzels",
+          "points": 16
+        },
+        {
+          "text": "Carrots",
+          "points": 16
+        },
+        {
+          "text": "Celery",
+          "points": 16
+        },
+        {
+          "text": "Apple",
+          "points": 16
+        },
+        {
+          "text": "Peanuts",
+          "points": 16
+        },
+        {
+          "text": "Crackers",
+          "points": 16
+        },
+        {
+          "text": "Ice",
+          "points": 8
+        },
+        {
+          "text": "Pickles",
+          "points": 8
+        },
+        {
+          "text": "Hard candy",
+          "points": 8
+        },
+        {
+          "text": "Cereal",
+          "points": 8
+        },
+        {
+          "text": "Granola",
+          "points": 8
+        },
+        {
+          "text": "Popcorn chicken",
+          "points": 8
+        },
+        {
+          "text": "Fried chicken",
+          "points": 8
+        },
+        {
+          "text": "Corn on the cob",
+          "points": 8
+        },
+        {
+          "text": "Sunflower seeds",
+          "points": 8
+        },
+        {
+          "text": "Pistachios",
+          "points": 8
+        },
+        {
+          "text": "Walnuts",
+          "points": 4
+        },
+        {
+          "text": "Trail mix",
+          "points": 4
+        },
+        {
+          "text": "Rice cakes",
+          "points": 4
+        },
+        {
+          "text": "Graham crackers",
+          "points": 4
+        },
+        {
+          "text": "Cookies",
+          "points": 4
+        },
+        {
+          "text": "Wafers",
+          "points": 4
+        },
+        {
+          "text": "Toast",
+          "points": 4
+        },
+        {
+          "text": "Bacon",
+          "points": 4
+        },
+        {
+          "text": "Taco",
+          "points": 4
+        },
+        {
+          "text": "Raw broccoli",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something a kid would look for in a new house",
+      "hint": "What backyard feature might make a child ask to see the house again?",
+      "answers": [
+        {
+          "text": "Swimming pool",
+          "points": 100
+        },
+        {
+          "text": "Backyard",
+          "points": 64
+        },
+        {
+          "text": "Big bedroom",
+          "points": 64
+        },
+        {
+          "text": "Own bathroom",
+          "points": 64
+        },
+        {
+          "text": "Swing",
+          "points": 32
+        },
+        {
+          "text": "Playroom",
+          "points": 32
+        },
+        {
+          "text": "Treehouse",
+          "points": 32
+        },
+        {
+          "text": "Trampoline",
+          "points": 16
+        },
+        {
+          "text": "Basement",
+          "points": 16
+        },
+        {
+          "text": "Attic",
+          "points": 8
+        },
+        {
+          "text": "Stairs",
+          "points": 8
+        },
+        {
+          "text": "Basketball hoop",
+          "points": 8
+        },
+        {
+          "text": "Garage",
+          "points": 8
+        },
+        {
+          "text": "Other kids nearby",
+          "points": 8
+        },
+        {
+          "text": "Nearby park",
+          "points": 8
+        },
+        {
+          "text": "Nearby school",
+          "points": 8
+        },
+        {
+          "text": "Wi-Fi",
+          "points": 8
+        },
+        {
+          "text": "TV",
+          "points": 8
+        },
+        {
+          "text": "Big closet",
+          "points": 8
+        },
+        {
+          "text": "Slide",
+          "points": 4
+        },
+        {
+          "text": "Sandbox",
+          "points": 4
+        },
+        {
+          "text": "Hot tub",
+          "points": 4
+        },
+        {
+          "text": "Bunk beds",
+          "points": 4
+        },
+        {
+          "text": "Air conditioning",
+          "points": 4
+        },
+        {
+          "text": "Elevator",
+          "points": 4
+        },
+        {
+          "text": "Laundry chute",
+          "points": 4
+        },
+        {
+          "text": "Pond",
+          "points": 4
+        },
+        {
+          "text": "Woods",
+          "points": 4
+        },
+        {
+          "text": "Front yard",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something you'd eat before starting a diet tomorrow",
+      "hint": "Imagine choosing one last indulgence before Monday's fresh start.",
+      "answers": [
+        {
+          "text": "Pizza",
+          "points": 100
+        },
+        {
+          "text": "Ice cream",
+          "points": 64
+        },
+        {
+          "text": "Chocolate",
+          "points": 64
+        },
+        {
+          "text": "Burger",
+          "points": 64
+        },
+        {
+          "text": "Cake",
+          "points": 32
+        },
+        {
+          "text": "Potato chips",
+          "points": 32
+        },
+        {
+          "text": "French fries",
+          "points": 32
+        },
+        {
+          "text": "Doughnuts",
+          "points": 32
+        },
+        {
+          "text": "Cookies",
+          "points": 32
+        },
+        {
+          "text": "Fried chicken",
+          "points": 8
+        },
+        {
+          "text": "Brownies",
+          "points": 8
+        },
+        {
+          "text": "Pie",
+          "points": 8
+        },
+        {
+          "text": "Macaroni and cheese",
+          "points": 8
+        },
+        {
+          "text": "Nachos",
+          "points": 8
+        },
+        {
+          "text": "Gummy candy",
+          "points": 8
+        },
+        {
+          "text": "Milkshake",
+          "points": 8
+        },
+        {
+          "text": "Pancakes",
+          "points": 8
+        },
+        {
+          "text": "Waffles",
+          "points": 8
+        },
+        {
+          "text": "Bacon",
+          "points": 8
+        },
+        {
+          "text": "Burrito",
+          "points": 4
+        },
+        {
+          "text": "Croissant",
+          "points": 4
+        },
+        {
+          "text": "Garlic bread",
+          "points": 4
+        },
+        {
+          "text": "Grilled cheese sandwich",
+          "points": 4
+        },
+        {
+          "text": "Ribs",
+          "points": 4
+        },
+        {
+          "text": "Steak",
+          "points": 4
+        },
+        {
+          "text": "Chow mein",
+          "points": 4
+        },
+        {
+          "text": "Fried rice",
+          "points": 4
+        },
+        {
+          "text": "Mozzarella sticks",
+          "points": 4
+        },
+        {
+          "text": "Onion rings",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something an older sibling won't let you touch",
+      "hint": "Which personal device is often guarded with a password and kept close?",
+      "answers": [
+        {
+          "text": "Phone",
+          "points": 100
+        },
+        {
+          "text": "Clothes",
+          "points": 64
+        },
+        {
+          "text": "Video game console",
+          "points": 64
+        },
+        {
+          "text": "Computer",
+          "points": 64
+        },
+        {
+          "text": "Diary",
+          "points": 32
+        },
+        {
+          "text": "Car",
+          "points": 32
+        },
+        {
+          "text": "Makeup",
+          "points": 32
+        },
+        {
+          "text": "Toys",
+          "points": 32
+        },
+        {
+          "text": "Food",
+          "points": 32
+        },
+        {
+          "text": "Remote control",
+          "points": 16
+        },
+        {
+          "text": "Money",
+          "points": 16
+        },
+        {
+          "text": "Hair",
+          "points": 16
+        },
+        {
+          "text": "Shoes",
+          "points": 8
+        },
+        {
+          "text": "Jewelry",
+          "points": 8
+        },
+        {
+          "text": "Bed",
+          "points": 8
+        },
+        {
+          "text": "Guitar",
+          "points": 8
+        },
+        {
+          "text": "Headphones",
+          "points": 8
+        },
+        {
+          "text": "Books",
+          "points": 8
+        },
+        {
+          "text": "Bike",
+          "points": 8
+        },
+        {
+          "text": "Trading cards",
+          "points": 8
+        },
+        {
+          "text": "Schoolwork",
+          "points": 8
+        },
+        {
+          "text": "Art supplies",
+          "points": 8
+        },
+        {
+          "text": "Stereo",
+          "points": 4
+        },
+        {
+          "text": "Perfume",
+          "points": 4
+        },
+        {
+          "text": "Camera",
+          "points": 4
+        },
+        {
+          "text": "Skateboard",
+          "points": 4
+        },
+        {
+          "text": "Trophies",
+          "points": 4
+        },
+        {
+          "text": "Sports gear",
+          "points": 4
+        },
+        {
+          "text": "Charger",
+          "points": 4
+        },
+        {
+          "text": "Keys",
+          "points": 4
+        },
+        {
+          "text": "Wallet",
+          "points": 4
+        },
+        {
+          "text": "Sunglasses",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name a slang word for underwear",
+      "hint": "Think of the old-fashioned word for the drawer where you keep your underwear.",
+      "answers": [
+        {
+          "text": "Drawers",
+          "points": 100
+        },
+        {
+          "text": "Panties",
+          "points": 64
+        },
+        {
+          "text": "Undies",
+          "points": 64
+        },
+        {
+          "text": "Boxer shorts",
+          "points": 64
+        },
+        {
+          "text": "Skivvies",
+          "points": 32
+        },
+        {
+          "text": "Briefs",
+          "points": 32
+        },
+        {
+          "text": "Knickers",
+          "points": 32
+        },
+        {
+          "text": "Tighty-whities",
+          "points": 16
+        },
+        {
+          "text": "Underpants",
+          "points": 16
+        },
+        {
+          "text": "Long johns",
+          "points": 8
+        },
+        {
+          "text": "Jockey shorts",
+          "points": 8
+        },
+        {
+          "text": "BVDs",
+          "points": 4
+        },
+        {
+          "text": "Chonies",
+          "points": 4
+        },
+        {
+          "text": "Unmentionables",
+          "points": 4
+        },
+        {
+          "text": "Small clothes",
+          "points": 4
+        },
+        {
+          "text": "Delicates",
+          "points": 4
+        },
+        {
+          "text": "Bloomers",
+          "points": 4
+        },
+        {
+          "text": "Thong",
+          "points": 4
+        },
+        {
+          "text": "G-string",
+          "points": 4
+        },
+        {
+          "text": "Jockstrap",
+          "points": 4
+        },
+        {
+          "text": "Trunks",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something that's made from aluminum",
+      "hint": "What recyclable drink container is often made of this lightweight metal?",
+      "answers": [
+        {
+          "text": "Cans",
+          "points": 100
+        },
+        {
+          "text": "Foil",
+          "points": 64
+        },
+        {
+          "text": "Window frame",
+          "points": 64
+        },
+        {
+          "text": "Saucepan",
+          "points": 64
+        },
+        {
+          "text": "Bicycle",
+          "points": 32
+        },
+        {
+          "text": "Airplane",
+          "points": 16
+        },
+        {
+          "text": "Ladder",
+          "points": 16
+        },
+        {
+          "text": "Baseball bat",
+          "points": 16
+        },
+        {
+          "text": "Boat",
+          "points": 16
+        },
+        {
+          "text": "Car wheel",
+          "points": 8
+        },
+        {
+          "text": "Car body",
+          "points": 8
+        },
+        {
+          "text": "Baking sheet",
+          "points": 8
+        },
+        {
+          "text": "Pie plate",
+          "points": 8
+        },
+        {
+          "text": "Frying pan",
+          "points": 8
+        },
+        {
+          "text": "Lawn chair",
+          "points": 8
+        },
+        {
+          "text": "Gutter",
+          "points": 8
+        },
+        {
+          "text": "Siding",
+          "points": 8
+        },
+        {
+          "text": "Screen door",
+          "points": 8
+        },
+        {
+          "text": "Fence",
+          "points": 8
+        },
+        {
+          "text": "Watch case",
+          "points": 4
+        },
+        {
+          "text": "Belt buckle",
+          "points": 4
+        },
+        {
+          "text": "Crutches",
+          "points": 4
+        },
+        {
+          "text": "Walker",
+          "points": 4
+        },
+        {
+          "text": "Wheelchair",
+          "points": 4
+        },
+        {
+          "text": "Camera body",
+          "points": 4
+        },
+        {
+          "text": "Trophy",
+          "points": 4
+        },
+        {
+          "text": "Coffee pot",
+          "points": 4
+        }
+      ]
+    },
+    {
+      "question": "Name something people today probably wash more than they need to",
+      "hint": "Picture the part of your body people shampoo, condition, and style.",
+      "answers": [
+        {
+          "text": "Hair",
+          "points": 100
+        },
+        {
+          "text": "Clothes",
+          "points": 64
+        },
+        {
+          "text": "Hands",
+          "points": 64
+        },
+        {
+          "text": "Car",
+          "points": 64
+        },
+        {
+          "text": "Face",
+          "points": 16
+        },
+        {
+          "text": "Dishes",
+          "points": 16
+        },
+        {
+          "text": "Bed sheets",
+          "points": 16
+        },
+        {
+          "text": "Towels",
+          "points": 16
+        },
+        {
+          "text": "Floors",
+          "points": 16
+        },
+        {
+          "text": "Windows",
+          "points": 4
+        },
+        {
+          "text": "Pets",
+          "points": 4
+        },
+        {
+          "text": "Shoes",
+          "points": 4
+        },
+        {
+          "text": "Fruit",
+          "points": 4
+        },
+        {
+          "text": "Vegetables",
+          "points": 4
+        },
+        {
+          "text": "Phone",
+          "points": 4
+        },
+        {
+          "text": "Eyeglasses",
+          "points": 4
+        },
+        {
+          "text": "Makeup brushes",
+          "points": 4
+        },
+        {
+          "text": "Jewelry",
+          "points": 4
+        },
+        {
+          "text": "Bathtub",
+          "points": 4
+        }
+      ]
+    }
+  ]
+}
